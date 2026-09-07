@@ -1,5 +1,8 @@
 Tentu. Berikut `README.md` yang sesuai dengan script `setup-open-webui.sh` tersebut, termasuk arsitektur, fitur, instalasi, konfigurasi, troubleshooting, dan keamanan data.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06045c58-eadd-47e7-8fdb-eb244dd8f07e" />
+
+
 ````markdown
 # Ollama + Open WebUI — ThinkPad T430
 
